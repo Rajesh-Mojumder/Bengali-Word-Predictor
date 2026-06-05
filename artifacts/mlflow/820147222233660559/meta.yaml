@@ -1,0 +1,9 @@
+artifact_location: /home/claude/bangla-ocr-assignment/artifacts/mlflow/820147222233660559
+creation_time: 1780575198481
+effective_trace_archival_retention: null
+experiment_id: '820147222233660559'
+last_update_time: 1780575198481
+lifecycle_stage: active
+name: BanglaOCR
+trace_location: null
+workspace: default

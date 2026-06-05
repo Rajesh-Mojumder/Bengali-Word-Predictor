@@ -1,0 +1,15 @@
+artifact_uri: /home/claude/bangla-ocr-assignment/artifacts/mlflow/820147222233660559/fbc2e943adc14c84bdba2ae05751a56d/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '820147222233660559'
+lifecycle_stage: active
+run_id: fbc2e943adc14c84bdba2ae05751a56d
+run_name: test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780575303708
+status: 1
+tags: []
+user_id: root

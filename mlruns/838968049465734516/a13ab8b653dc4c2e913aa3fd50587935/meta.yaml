@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/bangla-ocr-assignment/mlruns/838968049465734516/a13ab8b653dc4c2e913aa3fd50587935/artifacts
+end_time: 1780650366888
+entry_point_name: ''
+experiment_id: '838968049465734516'
+lifecycle_stage: active
+run_id: a13ab8b653dc4c2e913aa3fd50587935
+run_name: deeper_cnn_lr0.0005_ep20
+run_uuid: a13ab8b653dc4c2e913aa3fd50587935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780650204858
+status: 3
+tags: []
+user_id: '24166017'

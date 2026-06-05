@@ -1,0 +1,15 @@
+artifact_uri: /home/claude/bangla-ocr-assignment/artifacts/mlflow/820147222233660559/52ec791952704b4787cd97fb1f2a7acb/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '820147222233660559'
+lifecycle_stage: active
+run_id: 52ec791952704b4787cd97fb1f2a7acb
+run_name: cnn_lr0.001_ep10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780575198488
+status: 1
+tags: []
+user_id: root

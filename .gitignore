@@ -1,0 +1,18 @@
+# Dataset (do not commit)
+BanglaLekha-Isolated/
+*.zip
+
+# Trained model artifacts
+models/
+artifacts/
+mlruns/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Screenshots (add manually)
+# screenshots/
